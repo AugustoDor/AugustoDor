@@ -13,10 +13,20 @@
 
 
 
-### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+### Sobre mi  
+Soy Augusto, una persona emprendedora, aplicada, autodidacta y con mente abierta para resolver problemas. Desde pequeño me gustó la computación, comencé y sigo estudiando Ingeniería en Sistemas, solo que hoy en día estoy orientado al mundo de los datos. 
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+🚀¿Por qué me interesó este mundo? Porque creo que los datos son el bien mas valioso que existe en el mundo, y si los utilizamos bien, con ellos podríamos generar mucho valor y aportar a la resolución de problemas, tanto de interés global como particular. 
+
+🤖 Trabajo con las siguientes tecnologías: 
+Para Bases de Datos utilizo SQL, para programación me especializo en Python, en cuanto a Ciencia de Datos utilizo sus principales librerías:
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+
+🧠 Me gusta mucho trabajar en equipo y puedo adaptarme muy bien a cualquier entorno, gracias a esto he podido participar tanto en voluntariados en mi ciudad natal, en donde realicé y realizo varios proyectos, así como en entornos universitarios.  
   
 
 <br/>  
