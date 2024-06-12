@@ -1,4 +1,4 @@
-## <div align="center">Hola 👋, Soy Augusto Dor!</div>  
+# <div align="center">Hola 👋, Soy Augusto Dor!</div>  
   
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 
 
-### Sobre mi  
+## Sobre mi  
 Soy Augusto, una persona emprendedora, aplicada, autodidacta y con mente abierta para resolver problemas. Desde pequeño me gustó la computación, comencé y sigo estudiando Ingeniería en Sistemas, solo que hoy en día estoy orientado al mundo de los datos. 
 
 🚀¿Por qué me interesó este mundo? Porque creo que los datos son el bien mas valioso que existe en el mundo, y si los utilizamos bien, con ellos podríamos generar mucho valor y aportar a la resolución de problemas, tanto de interés global como particular. 
@@ -46,13 +46,13 @@ Para Bases de Datos utilizo SQL, para programación me especializo en Python, en
 <br/>  
 
 
-## Languages and Tools  
+## Lenguajes y Herramientas
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>  
 
 <br/>  
 
 
-## Github Stats  
+## Estadísticas de Github 
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AugustoDor&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
