@@ -27,13 +27,10 @@ Para Bases de Datos utilizo SQL, para programación me especializo en Python, en
 - Scikit-Learn
 
 🧠 Me gusta mucho trabajar en equipo y puedo adaptarme muy bien a cualquier entorno, gracias a esto he podido participar tanto en voluntariados en mi ciudad natal, en donde realicé y realizo varios proyectos, así como en entornos universitarios.  
-  
-
 <br/>  
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 Estoy en la busqueda de una oportunidad laboral  
   
@@ -45,12 +42,6 @@ Para Bases de Datos utilizo SQL, para programación me especializo en Python, en
 
 
 - 📫 Puedes contactarme en **augustodorjob@gmail.com**
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
