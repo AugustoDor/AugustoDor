@@ -14,19 +14,13 @@
 
 
 ## Sobre mi  
-Soy Augusto, una persona emprendedora, aplicada, autodidacta y con mente abierta para resolver problemas. Desde pequeño me gustó la computación, comencé y sigo estudiando Ingeniería en Sistemas, solo que hoy en día estoy orientado al mundo de los datos. 
+Soy Augusto y tengo 20 años. Actualmente estoy estudiando inglés, Ingeniería en Sistemas de Información y me he desarrollado como 
+Data Scientist, con experiencia en Python, SQL, y muchas herramientas útiles en el mundo data. He realizado diferentes proyectos, 
+tanto a nivel Universitario como de manera Personal, que me han otorgado conocimientos en metodologías ágiles, flujos de trabajo, 
+estructura de datos, evaluación de modelos, machine learning, entre muchas otras. Me considero una persona empática, entusiasta, 
+versátil, curiosa y creativa. Me gusta el desafío de ser cada día mejor en lo que hago y espero con ansias utilizar el conocimiento 
+adquirido para dar valor a mi ambiente de trabajo y proyectos.
 
-🚀¿Por qué me interesó este mundo? Porque creo que los datos son el bien mas valioso que existe en el mundo, y si los utilizamos bien, con ellos podríamos generar mucho valor y aportar a la resolución de problemas, tanto de interés global como particular. 
-
-🤖 Trabajo con las siguientes tecnologías: 
-Para Bases de Datos utilizo SQL, para programación me especializo en Python, en cuanto a Ciencia de Datos utilizo sus principales librerías:
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-
-🧠 Me gusta mucho trabajar en equipo y puedo adaptarme muy bien a cualquier entorno, gracias a esto he podido participar tanto en voluntariados en mi ciudad natal, en donde realicé y realizo varios proyectos, así como en entornos universitarios.  
 <br/>  
 
 
