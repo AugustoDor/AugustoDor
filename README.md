@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Augusto y tengo 20 años. <br>Actualmente estoy estudiando Ingeniería en Sistemas de Información y me he desarrollado como especialista en Datos, Automatizaciones, etc. <br>Con experiencia en distintos proyectos y muchas herramientas útiles en el ámbito. <br>
+Soy Augusto y tengo 22 años. <br>Actualmente estoy estudiando Ingeniería en Sistemas de Información y me he desarrollado como especialista en Datos, Automatizaciones, etc. <br>Con experiencia en distintos proyectos y muchas herramientas útiles en el ámbito. <br>
 
 
 ## 🌐 Socials:
