@@ -10,10 +10,3 @@ Soy Augusto y tengo 23 años. <br>Trabajando en Messa.ai como Software Engineer 
 
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@augusto_dor) 
-
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AugustoDor&theme=rose&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AugustoDor&theme=rose&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoDor&theme=rose&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
